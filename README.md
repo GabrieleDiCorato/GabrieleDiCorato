@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Gabriele 
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriele-di-corato-002bba117)
+&nbsp;
 
 ![](https://komarev.com/ghpvc/?username=GabrieleDiCorato&style=flat-square&base=100)
 
