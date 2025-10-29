@@ -5,7 +5,7 @@
 
 Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and tests.
 
-I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. Now I'm pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI. This page pertains to this new life, where I'm still learning, playing with new things, and making mistakes. 
+I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS by ION](https://iongroup.com/products/markets/xtp-risk-janus/). Now I'm pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI. This page pertains to this new life, where I'm still learning, playing with new things, and making mistakes. 
 
 
 ### 🌱 I'm currently learning:
