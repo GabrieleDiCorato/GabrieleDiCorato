@@ -1,27 +1,28 @@
-## Hi, I'm Gabriele 
+# Hi, I'm Gabriele
 
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriele-di-corato-002bba117/)](https://www.linkedin.com/in/gabriele-di-corato-002bba117/)
+![Location](https://img.shields.io/badge/-Milan,%20Italy-DC143C?style=flat-square&logo=googlemaps&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-di-corato-002bba117/)
 ![GitHub followers](https://img.shields.io/github/followers/GabrieleDiCorato?label=Follow&style=social)
 
-Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and tests.
+Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and experiments.
 
-I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS by ION](https://iongroup.com/products/markets/xtp-risk-janus/). Now I'm pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI. This page pertains to this new life, where I'm still learning, playing with new things, and making mistakes. 
+I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/) by ION. I'm now pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI. 
 
 
-### 🌱 I'm currently learning:
+## 🌱 Currently Learning
 
-- How to be "pythonic"
-- Machine Learning
-- AWS 
+- Writing more "pythonic" code
+- Machine Learning & Deep Learning
+- AWS Cloud Services
 
-### 📫 Want to chat?
+## 📫 Want to Chat?
 
 If you'd like to meet me and chat about anything you are passionate about, feel free to book a slot! Please make sure to describe the agenda:
 
 <a href="https://calendly.com/gabriele-dicorato/15min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
+---
 
-##
 <details>
 <summary>🔧 Click to see my favourite tools</summary>
 
@@ -30,72 +31,62 @@ This is a list of everything I've worked with.
 
 <p align="center"><small><em>I have forgotten much that I thought I knew, and learned again much that I had forgotten. I can see many things far off, but many things that are close at hand I cannot see.*</em></small></p>
 
-**Languages**
 
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![R](https://img.shields.io/badge/-R-black?logo=r&style=social)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=social)&nbsp;&nbsp;
-![Matlab](https://img.shields.io/badge/-Matlab-black?logo=matlab&style=social)&nbsp;&nbsp;
-![Wolfram](https://img.shields.io/badge/-Wolfram-black?logo=wolfram&style=social)&nbsp;&nbsp;
+### Languages
 
-<small>I'm mainly confident in Java and Python, and I'd like to learn Rust and Scala.</small>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?style=flat-square&logo=wolfram&logoColor=white)
 
-**Databases**
+<small>*Mainly confident in Java and Python. Would like to learn Rust and Scala.*</small>
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-![Neo4J](https://img.shields.io/badge/-Neo4j-black?logo=neo4j&style=social)&nbsp;&nbsp;
+### Databases
 
-**Frameworks & Libraries**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)&nbsp;&nbsp;
-![Akka](https://img.shields.io/badge/-Akka-black?logo=akka&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
+### Frameworks & Libraries
 
-**Cloud**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Akka](https://img.shields.io/badge/-Akka-0B5468?style=flat-square&logo=akka&logoColor=white)
 
-![Google](https://img.shields.io/badge/-Google%20Cloud-black?logo=googlecloud&style=social)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-black?logo=googlecloud&style=social)&nbsp;&nbsp;
+### Cloud Platforms
 
-**Tools**
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-black?logo=apachemaven&style=social)&nbsp;&nbsp;
-![UV](https://img.shields.io/badge/-uv-black?logo=uv&style=social)&nbsp;&nbsp;
+### Development Tools
 
-![LaTeX](https://img.shields.io/badge/-LaTeX-black?logo=latex&style=social)&nbsp;&nbsp;
-![Confluence](https://img.shields.io/badge/-Confluence-black?logo=confluence&style=social)&nbsp;&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-black?logo=jira&style=social)&nbsp;&nbsp;
-![Power Point](https://img.shields.io/badge/-Power%20Point-black?logo=libreofficeimpress&style=social)&nbsp;&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-black?logo=libreofficecalc&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![uv](https://img.shields.io/badge/-uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**IDEs**
+![Agile](https://img.shields.io/badge/-Agile-009FDA?style=flat-square&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visualstudio&style=social)&nbsp;&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?logo=intellijidea&style=social)&nbsp;&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-black?logo=anaconda&style=social)&nbsp;&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-black?logo=rstudioide&style=social)&nbsp;&nbsp;
+### IDEs & Editors
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </details>
 
-## 
-![](https://komarev.com/ghpvc/?username=GabrieleDiCorato&style=flat-square&label=Visits+Since+Nov+2025:)
+---
 
-<!--
-**GabrieleDiCorato/GabrieleDiCorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=GabrieleDiCorato&style=flat-square&label=Visits+Since+Nov+2025:)
