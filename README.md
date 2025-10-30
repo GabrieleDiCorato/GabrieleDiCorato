@@ -2,8 +2,7 @@
 
 ![Location](https://img.shields.io/badge/📍-Lombardy,_Italy-DC143C?style=flat-square&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-di-corato-002bba117/)
-[![Calendly](https://img.shields.io/badge/Chat_with_me-00C851?style=flat-square&logo=calendly)](https://calendly.com/gabriele-dicorato/15min)
-![GitHub followers](https://img.shields.io/github/followers/GabrieleDiCorato?label=Follow&style=social)<br>
+[![Calendly](https://img.shields.io/badge/Chat_with_me-00C851?style=flat-square&logo=calendly)](https://calendly.com/gabriele-dicorato/15min)<br>
 ![Profile views](https://komarev.com/ghpvc/?username=GabrieleDiCorato&style=flat-square&label=Visits+since+10/29/2025:)
 
 Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and experiments.
@@ -97,6 +96,7 @@ I've been a quantitative developer in investment banking for 7+ years, primarily
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/-Colab-F37626?style=flat-square&logo=googlecolab&logoColor=white)
 
 </details>
 
