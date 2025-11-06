@@ -22,7 +22,7 @@ I've been a quantitative developer in investment banking for 7+ years, primarily
 
 ## 💼 Available for Full-Time Roles
 
-**Data Scientist** • **Machine Learning Engineer** • **Data Engineer** • **Quantitative Developer**
+**Data Scientist** • **Technical Business Analyst** • **Data Engineer** • **Quantitative Developer**
 
 ![Status](https://img.shields.io/badge/🚀_Status-Seeking_Opportunities-00C851?style=for-the-badge)<br>
 ![Start Date](https://img.shields.io/badge/📅_Available_Full_Time-January_2026-0077B5?style=for-the-badge) <br>
