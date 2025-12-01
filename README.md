@@ -113,7 +113,9 @@ This is a list of everything I've worked with.
 ## 🌱 Currently Learning
 
 <!-- GOODREADS-LIST:START -->
-- [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/review/show/8112511941?utm_medium=api&utm_source=rss) by Luciano Ramalho (⭐️4.63)
-- [The Art of Statistics: How to Learn from Data](https://www.goodreads.com/review/show/7137846427?utm_medium=api&utm_source=rss) by David Spiegelhalter (⭐️4.14)
-- [The Data Detective: Ten Easy Rules to Make Sense of Statistics](https://www.goodreads.com/review/show/7464038539?utm_medium=api&utm_source=rss) by Tim Harford (⭐️4.11)
+- **_Fluent Python: Clear, Concise, and Effective Programming_** by Luciano Ramalho
+- **_The Art of Statistics: How to Learn from Data_** by David Spiegelhalter
+- **_The Data Detective: Ten Easy Rules to Make Sense of Statistics_** by Tim Harford
 <!-- GOODREADS-LIST:END -->
+- AWS
+- [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
