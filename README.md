@@ -7,19 +7,11 @@
 
 Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and experiments.
 
-I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/) by ION. I'm now pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI. 
-
-## 🌱 Currently Learning
-
-- Writing more "pythonic" code
-- Machine Learning & Deep Learning fundamentals
-- AWS Cloud Services
-
----
-
-<div align="center">
+I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/) by ION. I'm now pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI.
 
 ## 💼 Available for Full-Time Roles
+
+<div align="center">
 
 **Data Scientist** • **Technical Business Analyst** • **Data Engineer** • **Quantitative Developer**
 
@@ -34,17 +26,20 @@ I've been a quantitative developer in investment banking for 7+ years, primarily
 
 </div>
 
----
 
+## 🔧 Tech Stack & Tools
 <details>
-<summary>🔧 Tech Stack & Tools</summary>
-
+<summary>Click to expand section</summary>
 <br>
+
+This is a list of everything I've worked with. 
+
+<p align="center"><medium><em>I have forgotten much that I thought I knew, and learned again much that I had forgotten. I can see many things far off, but many things that are close at hand I cannot see.</em></medium></p>
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -63,8 +58,9 @@ I've been a quantitative developer in investment banking for 7+ years, primarily
 
 ### Frameworks & Libraries
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Akka](https://img.shields.io/badge/-Akka-0B5468?style=flat-square&logo=akka&logoColor=white)
 
@@ -89,6 +85,7 @@ I've been a quantitative developer in investment banking for 7+ years, primarily
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### IDEs & Editors
 
@@ -100,4 +97,20 @@ I've been a quantitative developer in investment banking for 7+ years, primarily
 
 </details>
 
----
+
+## 📊 GitHub Stats:
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleDiCorato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+![](https://github-profile-trophy.vercel.app/?username=GabrieleDiCorato&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+## 🌱 Currently Learning
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
