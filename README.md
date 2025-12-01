@@ -113,4 +113,7 @@ This is a list of everything I've worked with.
 ## 🌱 Currently Learning
 
 <!-- GOODREADS-LIST:START -->
+- [Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/review/show/8112511941?utm_medium=api&utm_source=rss) by Luciano Ramalho (⭐️4.63)
+- [The Art of Statistics: How to Learn from Data](https://www.goodreads.com/review/show/7137846427?utm_medium=api&utm_source=rss) by David Spiegelhalter (⭐️4.14)
+- [The Data Detective: Ten Easy Rules to Make Sense of Statistics](https://www.goodreads.com/review/show/7464038539?utm_medium=api&utm_source=rss) by Tim Harford (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
