@@ -19,4 +19,4 @@ jobs:
           # Replace this with your goodreads user id
           goodreads_user_id: "185356984-gabriele"
           shelf: "reading_public"
-          template: "- **_$title_** by $author ($published_year)"
+          template: "- $title by $author ($published_year)"
