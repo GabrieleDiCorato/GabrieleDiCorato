@@ -85,20 +85,11 @@ This is a list of everything I've worked with.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&show_icons=true&theme=dark&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&show_icons=true&theme=dark&count_private=true&rank_icon=github" />
   </a>
     <a href="https://nirzak-streak-stats.vercel.app/">
     <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false" />
   </a>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 
@@ -111,3 +102,13 @@ This is a list of everything I've worked with.
 <!-- GOODREADS-LIST:END -->
 - AWS
 - [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
+
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
