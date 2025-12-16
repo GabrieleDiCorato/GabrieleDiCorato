@@ -82,11 +82,25 @@ This is a list of everything I've worked with.
 
 
 ## 📊 GitHub Stats:
+
 <div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false)<br/>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&show_icons=true&theme=dark&count_private=true" />
+  </a>
+    <a href="https://nirzak-streak-stats.vercel.app/">
+    <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false" />
+  </a>
 </div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrieleDiCorato/GabrieleDiCorato/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 
 ## 🌱 Currently Learning
 
