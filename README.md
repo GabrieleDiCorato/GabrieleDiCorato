@@ -85,10 +85,10 @@ This is a list of everything I've worked with.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&show_icons=true&theme=dark&count_private=true&rank_icon=github" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&show_icons=true&theme=dark&count_private=true&rank_icon=github" />
   </a>
-    <a href="https://nirzak-streak-stats.vercel.app/">
-    <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false" />
+  <a href="https://nirzak-streak-stats.vercel.app/">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false" />
   </a>
 </div>
 
