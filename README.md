@@ -9,24 +9,6 @@ Nice to meet you and welcome to my GitHub page, the graveyard for all my abandon
 
 I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/) by ION. I'm now pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI.
 
-## 💼 Available for Full-Time Roles
-
-<div align="center">
-
-**Data Scientist** • **Technical Business Analyst** • **Data Engineer** • **Quantitative Developer**
-
-![Status](https://img.shields.io/badge/🚀_Status-Seeking_Opportunities-00C851?style=for-the-badge)<br>
-![Start Date](https://img.shields.io/badge/📅_Available_Full_Time-January_2026-0077B5?style=for-the-badge) <br>
-![Location](https://img.shields.io/badge/📍_Location-Milan_or_Remote-DC143C?style=for-the-badge)
-
-**What I bring:** 7+ years of production systems • Strong mathematical foundation • Finance domain expertise • Enterprise-scale development • Communication & analysis capabilities
-
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-di-corato-002bba117/)
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-00C851?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/gabriele-dicorato/15min)
-
-</div>
-
-
 ## 🔧 Tech Stack & Tools
 <details>
 <summary>Click to expand section</summary>
@@ -39,35 +21,36 @@ This is a list of everything I've worked with.
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?style=flat-square&logo=wolfram&logoColor=white)
+![Wolfram](https://img.shields.io/badge/-Wolfram-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white)
 
 *Most confident in Java and Python. Interested in learning Rust and Scala.*
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Hazelcast](https://img.shields.io/badge/-Hazelcast-00599C?style=flat-square&logo=hazelcast&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Hazelcast](https://img.shields.io/badge/-Hazelcast-FF6600?style=flat-square&logo=hazelcast&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
 ### Frameworks & Libraries
 
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Akka](https://img.shields.io/badge/-Akka-0B5468?style=flat-square&logo=akka&logoColor=white)
+![Akka](https://img.shields.io/badge/-Akka-0B5468?style=flat-square&logoColor=white)
+![DBT](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
 ### Cloud Platforms
 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 *Experience with deployment and usage of pre-configured cloud environments.*
 
@@ -85,7 +68,7 @@ This is a list of everything I've worked with.
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ### IDEs & Editors
 
@@ -101,12 +84,7 @@ This is a list of everything I've worked with.
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleDiCorato&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-![](https://github-profile-trophy.vercel.app/?username=GabrieleDiCorato&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
