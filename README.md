@@ -96,6 +96,7 @@ This is a list of everything I've worked with.
 ## 🌱 Currently Learning
 
 <!-- GOODREADS-LIST:START -->
+- Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systemic Trading Strategies with Python by Stefan Jansen ()
 - Fluent Python: Clear, Concise, and Effective Programming by Luciano Ramalho (2015)
 - The Art of Statistics: How to Learn from Data by David Spiegelhalter (2019)
 - The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford (2020)
