@@ -93,7 +93,7 @@ This is a list of everything I've worked with.
 </div>
 
 
-## 🌱 Currently Learning
+## 🌱 Currently Reading (auto-updated)
 
 <!-- GOODREADS-LIST:START -->
 - Machine Learning for Algorithmic Trading: Predictive Models to Extract Signals from Market and Alternative Data for Systemic Trading Strategies with Python by Stefan Jansen ()
@@ -101,8 +101,6 @@ This is a list of everything I've worked with.
 - The Art of Statistics: How to Learn from Data by David Spiegelhalter (2019)
 - The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford (2020)
 <!-- GOODREADS-LIST:END -->
-- AWS
-- [5-Day AI Agents Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents)
 
 
 <!-- Snake Animation -->
