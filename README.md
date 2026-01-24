@@ -3,7 +3,7 @@
 ![Location](https://img.shields.io/badge/📍-Lombardy,_Italy-DC143C?style=flat-square&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-di-corato-002bba117/)
 [![Calendly](https://img.shields.io/badge/Chat_with_me-00C851?style=flat-square&logo=calendly)](https://calendly.com/gabriele-dicorato/15min)<br>
-![Profile views](https://komarev.com/ghpvc/?username=GabrieleDiCorato&style=flat-square&label=Visits+since+10/29/2025:)
+![Profile views](https://komarev.com/ghpvc/?username=GabrieleDiCorato&style=flat-square&label=Visits+since+Nov+2025:)
 
 Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and experiments.
 
