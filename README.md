@@ -7,7 +7,10 @@
 
 Nice to meet you and welcome to my GitHub page, the graveyard for all my abandoned projects and experiments.
 
-I've been a quantitative developer in investment banking for 7+ years, primarily working in Java with exposure to functional analysis and financial engineering. For example, I worked on [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/) by ION. I'm now pursuing a [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI.
+### Brief Overview
+*   **Currently:** Business Analyst (Exchange Technology Solutions) at the leading pan-European exchange.
+*   **Previously:** Quantitative Developer in investment banking (7+ years), specializing in Java, functional analysis, and financial engineering (e.g., [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/)).
+*   **Studying:** [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI.
 
 ## 🔧 Tech Stack & Tools
 <details>
@@ -101,7 +104,6 @@ This is a list of everything I've worked with.
 - The Art of Statistics: How to Learn from Data by David Spiegelhalter (2019)
 - The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford (2020)
 <!-- GOODREADS-LIST:END -->
-
 
 <!-- Snake Animation -->
 <div align="center">
