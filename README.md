@@ -10,7 +10,9 @@ Nice to meet you and welcome to my GitHub page, the graveyard for all my abandon
 ### Brief Overview
 *   **Currently:** Business Analyst (Exchange Technology Solutions) at the leading pan-European exchange.
 *   **Previously:** Quantitative Developer in investment banking (7+ years), specializing in Java, functional analysis, and financial engineering (e.g., [XTP Risk JANUS](https://iongroup.com/products/markets/xtp-risk-janus/)).
-*   **Studying:** [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI.
+*   **Academic Background:** 
+    * [Master in AI & Data Analytics for Business](https://aidamasterbicocca.it/percorso/), focusing on Python, Big Data, and AI.
+    * [MSc in Physics](https://www.unimi.it/en/education/master-programme/physics-master-programme), focusing on Theoretical High-Energy Physics: String Theory, Differential Geometry, Quantum Mechanics
 
 ## 🔧 Tech Stack & Tools
 <details>
@@ -84,16 +86,6 @@ This is a list of everything I've worked with.
 </details>
 
 
-## 📊 GitHub Stats:
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrieleDiCorato&show_icons=true&theme=dark&count_private=true&rank_icon=github" />
-  </a>
-  <a href="https://nirzak-streak-stats.vercel.app/">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=GabrieleDiCorato&theme=dark&hide_border=false" />
-  </a>
-</div>
 
 
 ## 🌱 Currently Reading (auto-updated)
